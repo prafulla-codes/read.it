@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Read-it
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+A simple application which helps you make reading as a daily habit.
 ## Available Scripts
 
 In the project directory, you can run:
