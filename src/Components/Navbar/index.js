@@ -1,9 +1,15 @@
+import styled from 'styled-components';
+import COLORS from '../../Constants/Colors';
+const NavbarStyle = styled.div`
+width:100%;
+background:${COLORS.primary}
+`
+
 const Navbar = () => {
     return (
-        <div id="nav">
+        <NavbarStyle>
             <h2> Read.it </h2>
-        </div>
+        </NavbarStyle>
     )
 }
-
 export default Navbar;
