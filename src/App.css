@@ -1,3 +1,7 @@
 
 
 
+@font-face {
+    font-family: 'Oregano';
+    src: local('Oregano'), url(./Fonts/Oregano-Regular.ttf) format('opentype');
+  }
